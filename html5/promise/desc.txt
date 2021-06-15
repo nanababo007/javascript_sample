@@ -1,0 +1,5 @@
+* test01.asp
+- this file is old ajax method, multi server url async call, source code.
+
+* test02.asp
+- this file is Promise method, multi server url async call, source code.
